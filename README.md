@@ -29,6 +29,14 @@ Screenshot
 Output example:
 ![CB Timeliner](/screenshot/CB_Timeliner_screenshot1.png)
 
+<br/>
+How to get ProcessGUID in Carbon Black Cloud Console:
+
+1. ![CB ProcessGUID1](/screenshot/CB_Timeliner_screenshot2.png)
+<br/>
+
+2. ![CB ProcessGUID2](/screenshot/CB_Timeliner_screenshot3.png)
+
 Changelogs
 ===
 - v0.1   (04 Nov 2022): First version of the script.
