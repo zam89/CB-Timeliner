@@ -32,7 +32,7 @@ Output example:
 <br/>
 How to get ProcessGUID in Carbon Black Cloud Console:
 
-1. ![CB ProcessGUID1](/screenshot/CB_Timeliner_screenshot2.png)
+1. ![CB ProcessGUID1](/screenshot/CB_Timeliner_screenshot22.png)
 <br/>
 
 2. ![CB ProcessGUID2](/screenshot/CB_Timeliner_screenshot3.png)
