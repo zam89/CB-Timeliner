@@ -32,10 +32,11 @@ Output example:
 <br/>
 How to get ProcessGUID in Carbon Black Cloud Console:
 
-1. ![CB ProcessGUID1](/screenshot/CB_Timeliner_screenshot22.png)
-<br/>
+1. Go to "Take Action" -> under "More Actions", select "Share process tree":
+<br/>![CB ProcessGUID1](/screenshot/CB_Timeliner_screenshot22.png)
 
-2. ![CB ProcessGUID2](/screenshot/CB_Timeliner_screenshot3.png)
+2. ProcessGUID of interest is highlighted in blue as example below:
+<br/>![CB ProcessGUID2](/screenshot/CB_Timeliner_screenshot3.png)
 
 Changelogs
 ===
