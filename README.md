@@ -9,18 +9,18 @@ Dependencies
 Required Python modules (via Pip):
 <li>requests</li>
 <li>json</li>
-<li>subprocess</li>
-<li>jq (via chocolatey for Windows)</li>
+<li>csv</li>
 
 How to Run
 ===
 1. Change url - <b>https://<CB_Console_URL>/api/investigate/v2/orgs/<ORG_Key>/events/</b> with your CB Console URL
+  * Make sure you put your ORG_KEY aswell
 2. Run : 
 ```
-python CB_Timeliner.py
+python CB_Timeliner_v0.5.py
 ```
 3. Enter your CB API Key & CB ProcessGUID
-4. Result will be in 2 format: result_< ProcessGUID >.json & CB_< Timeline_ProcessGUID >.csv
+4. Result will be same on script location - **result_< ProcessGUID >.csv**
 
 Screenshot
 ===
@@ -44,6 +44,7 @@ Changelogs
 - v0.2   (05 Nov 2022): Add user input, jq via subprocess & stuff.
 - v0.3   (07 Nov 2022): Include more event_type (filemod & regmod)
 - v0.4   (08 Nov 2022): Include more event_type (crossproc, modload & netconn)
+- v0.5   (25 Dec 2022): Script reworked by ChatGPT from OpenAI. (No, seriously by AI)
 
 License
 ===
